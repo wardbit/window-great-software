@@ -207,6 +207,7 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 | SuperClaude | Claude 增强 |
 | SuperPower | 能力增强 |
 | Antigravity Tools | Antigravity反向代理 |
+|coding tool |web/cli管理api/skills/对话,适合服务器使用|
 
 ### MCP 推荐 | Recommended MCPs
 
