@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git rev-parse:*)",
-      "Bash(git -C \"E:/project/window-great-software\" log --oneline --all -20)"
+      "Bash(git -C \"E:/project/window-great-software\" log --oneline --all -20)",
+      "Bash(git push:*)"
     ]
   }
 }
