@@ -202,12 +202,13 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 |------|------|
 | openspec | ai软件规范 |
 | Claude Code + Codex + Gemini | 配合 [GudaStudio/skills](https://github.com/GuDaStudio/skills),可以让他们来联合工作 |
-| CC Switch/coding tool | claude code,gemini cli,codex的API/Skills/MCP 管理 |
+| CC Switch | claude code,gemini cli,codex的API/Skills/MCP 管理 |
 | SuperClaude | Claude 增强 |
 | SuperPower | 能力增强 |
 | Antigravity Tools | Antigravity反向代理和账号切换，可以将其接入Claude code |
 | [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI/tree/main) | 一个为 CLI 提供 OpenAI/Gemini/Claude/Codex 兼容 API 接口的代理服务器。 |
-| [Claude Code Router]([claude-code-router/README_zh.md at main · musistudio/claude-code-router](https://github.com/musistudio/claude-code-router/blob/main/README_zh.md)) | 能够使得你的claude code在不同项目和工作下使用不同的llm api。但是众所周知claude code强大的基础是其底层模型，多搞几个gemini one 学生认证无限使用claude opus他不香吗？ |
+| [Claude Code Router](https://github.com/musistudio/claude-code-router/blob/main/README_zh.md) | 能够使得你的claude code在不同项目和工作下使用不同的llm api。但是众所周知claude code强大的基础是其底层模型，多搞几个gemini one 学生认证无限使用claude opus他不香吗？ |
+| coding tool | web/cli管理（codex\claude\gemini cli）api/skills/对话,适合服务器使用 |
 
 ### MCP 推荐 | Recommended MCPs
 
