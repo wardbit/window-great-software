@@ -22,6 +22,7 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 - [包管理器 | Package Managers](#包管理器)
 - [翻译软件 | Translation](#翻译软件)
 - [学习工具 | Learning Tools](#学习工具)
+- [AI工具|AI Tools](#AI工具)
 - [Chrome 插件 | Chrome Extensions](#chrome-插件)
 - [AI 开发 | AI Development](#ai-开发)
 
@@ -77,7 +78,6 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 | [Geek Uninstaller](https://geekuninstaller.com/) | 卸载工具 |
 | ContextMenuManager | 右键菜单管理 |
 | FolderMove | 移动文件夹 |
-| [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | Windows 界面增强 |
 
 ## 系统监控
 
@@ -252,6 +252,8 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 | Firecrawl | 网络爬虫和搜索 |
 | Excalidraw MCP | 思维导图mcp |
 | draw.io mcp | 思维导图mcp |
+| openTwitter | TwitterMCP |
+| OpenNews |  |
 
 ### Skill 推荐 | Recommended Skills
 
@@ -263,6 +265,7 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 - [Vercel 官方的智能体技能集合](https://github.com/vercel-labs/agent-skills)
 - [humanizer](https://github.com/blader/humanizer) 模仿人类写文章（这个后面+zh就是中文版本）
 - [skill-from-masters](https://github.com/GBSOSS/skill-from-masters) 站在巨人的肩膀上——基于领域专家经过验证的方法论构建人工智能技能。
+- browser 浏览器自动化
 
 ### Claude Plugin 推荐 | Recommended Plugins
 
