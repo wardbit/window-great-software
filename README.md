@@ -224,6 +224,8 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 | shrimp-task-manager | 任务管理 |
 | chrome-devtools | 浏览器调试 |
 | playwright | 浏览器自动化 |
+|  OpenTwitter |获取Twitter信息|
+|opennews|聚合新闻|
 
 ### Skill 推荐 | Recommended Skills
 
@@ -231,6 +233,8 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 - planning-with-files
 - obsidian skill
 - context-engineering-collection
+- broswer
+
 
 ### Claude Plugin 推荐 | Recommended Plugins
 
