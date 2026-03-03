@@ -231,7 +231,7 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 
 | 工具 | 说明 |
 |------|------|
-| openspec | ai软件规范 |
+| openspec/Spec-kit/bmad-method | ai软件规范 |
 | Claude Code + Codex + Gemini | 配合 [GudaStudio/skills](https://github.com/GuDaStudio/skills),可以让他们来联合工作 |
 | opencode | opencode |
 | CC Switch | claude code,gemini cli,codex的API/Skills/MCP 管理 |
@@ -300,4 +300,5 @@ A curated list of my favorite Windows software, browser extensions, and AI devel
 - oh-my-claudecode@omc
 - claude-mem@thedotmack
 - claude-code-notify@claude-code-notify
+- [Pensieve|Claude Code 的项目级结构化记忆插件](https://github.com/kingkongshot/Pensieve)
 
